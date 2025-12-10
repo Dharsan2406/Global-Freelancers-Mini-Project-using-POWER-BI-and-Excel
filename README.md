@@ -1,0 +1,2 @@
+# Global-Freelancers-Mini-Project-using-POWER-BI-and-Excel
+This data analyst project analyzes a global freelancer dataset to reveal key gig economy trends. The workflow uses Excel for data cleaning, data transformation and modeling in Power Query. Power BI is utilized for comprehensive data visualization, creating interactive dashboards to explore popular skills, project costs, geographical hiring trends
